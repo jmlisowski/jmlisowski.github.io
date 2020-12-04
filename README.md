@@ -15,7 +15,7 @@ I know, calm down, I'm a professional...
   
 ...procrastinator.
 ### So, what do I do on here?
-I make games, and publish my little projects, and I am working on a JS library to make coding easier and more accessible[Click Here!](https://github.com/jmlisowski/simplelib.js)).
+I make games, and publish my little projects, and I am working on a JS library to make coding easier and more accessible([Click Here!](https://github.com/jmlisowski/simplelib.js)).
 
 ### DUDE! WHERE ARE YOUR GAMES?
 Calm down, they're here:  
