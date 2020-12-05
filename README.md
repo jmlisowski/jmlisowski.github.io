@@ -10,4 +10,4 @@ Calm down, they're here:
 [Terrain Generator(not really a game idk)](https://jmlisowski.github.io/games/PerlinTerrain)
 
 ### simplelib.js(JavaScript Library)  
-[simplelib.js repository](https://github.com/jmlisowski/simplelib.js)
+[simplelib.js repository](https://jmlisowski.github.io/simplelib.js)
