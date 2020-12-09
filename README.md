@@ -6,8 +6,8 @@ I make games, and publish my little projects, and I am working on a JS library t
 
 ### DUDE! WHERE ARE YOUR GAMES?
 Calm down, they're here:  
-[Pong](https://jmlisowski.github.io/games/pong)  
-[Terrain Generator(not really a game idk)](https://jmlisowski.github.io/games/PerlinTerrain)
+[Pong](https://jmlisowski.github.io/pong)  
+[Terrain Generator(not really a game idk)](https://jmlisowski.github.io/PerlinTerrain)
 
 ### simplelib.js(JavaScript Library)  
 [simplelib.js repository](https://jmlisowski.github.io/simplelib.js)
